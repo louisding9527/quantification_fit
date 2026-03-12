@@ -1,0 +1,22 @@
+# 量化分析项目依赖
+# 数据获取
+MetaTrader5
+pandas
+pandas-ta
+numpy
+
+# 数据库
+psycopg2-binary
+sqlalchemy
+
+# 机器学习
+torch
+scikit-learn
+onnx
+onnxruntime
+
+# 数据处理
+scipy
+
+# 工具
+python-dotenv
